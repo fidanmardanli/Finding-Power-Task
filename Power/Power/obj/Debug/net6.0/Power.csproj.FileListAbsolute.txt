@@ -1,0 +1,15 @@
+C:\Users\marda\Desktop\c#\Power task\Power\Power\bin\Debug\net6.0\Power.exe
+C:\Users\marda\Desktop\c#\Power task\Power\Power\bin\Debug\net6.0\Power.deps.json
+C:\Users\marda\Desktop\c#\Power task\Power\Power\bin\Debug\net6.0\Power.runtimeconfig.json
+C:\Users\marda\Desktop\c#\Power task\Power\Power\bin\Debug\net6.0\Power.dll
+C:\Users\marda\Desktop\c#\Power task\Power\Power\bin\Debug\net6.0\Power.pdb
+C:\Users\marda\Desktop\c#\Power task\Power\Power\obj\Debug\net6.0\Power.csproj.AssemblyReference.cache
+C:\Users\marda\Desktop\c#\Power task\Power\Power\obj\Debug\net6.0\Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marda\Desktop\c#\Power task\Power\Power\obj\Debug\net6.0\Power.AssemblyInfoInputs.cache
+C:\Users\marda\Desktop\c#\Power task\Power\Power\obj\Debug\net6.0\Power.AssemblyInfo.cs
+C:\Users\marda\Desktop\c#\Power task\Power\Power\obj\Debug\net6.0\Power.csproj.CoreCompileInputs.cache
+C:\Users\marda\Desktop\c#\Power task\Power\Power\obj\Debug\net6.0\Power.dll
+C:\Users\marda\Desktop\c#\Power task\Power\Power\obj\Debug\net6.0\refint\Power.dll
+C:\Users\marda\Desktop\c#\Power task\Power\Power\obj\Debug\net6.0\Power.pdb
+C:\Users\marda\Desktop\c#\Power task\Power\Power\obj\Debug\net6.0\Power.genruntimeconfig.cache
+C:\Users\marda\Desktop\c#\Power task\Power\Power\obj\Debug\net6.0\ref\Power.dll
